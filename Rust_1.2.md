@@ -1,4 +1,4 @@
-# __Chapter 1.2: Hello, World__
+# __Chapter 1.2 : Hello, World__
 
 "!" calls a macro instead of normal function
 

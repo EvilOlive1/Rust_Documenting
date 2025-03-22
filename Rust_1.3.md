@@ -1,4 +1,4 @@
-# __Chapter 1.3: Hello, Cargo__
+# __Chapter 1.3 : Hello, Cargo__
 
 Cargo = Rust's build system and package manager
 
