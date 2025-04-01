@@ -21,3 +21,6 @@ By default, variables are __immutable__
 `.read_line(&mut guess)` = assigning input to variable
 
 `.expect()` = error handling
+
+### Placeholders
+
